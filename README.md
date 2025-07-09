@@ -51,7 +51,4 @@ Repositori ini berisi implementasi dan analisis dari penelitian perbandingan tig
 2. Masuk ke direktori:
    cd UAS_PrakPM
 
-3. Jalankan pelatihan model:
-   python train\_lenet.py
-   python train\_alexnet.py
-   python train\_resnet50.py
+3. Jalankan pelatihan model menggunakan notebook yang sudah disediakan.
